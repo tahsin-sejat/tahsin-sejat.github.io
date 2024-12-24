@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Robotics PhD @ <a href='https://www.gatech.edu/'>Georgia Tech</a>. 
 
 profile:
   align: right
