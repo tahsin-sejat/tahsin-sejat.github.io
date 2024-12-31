@@ -5,8 +5,8 @@ permalink: /
 subtitle: Robotics PhD @ <a href='https://www.gatech.edu/'>Georgia Tech</a>. 
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: WEBSITE_PROFILE_PIC.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
