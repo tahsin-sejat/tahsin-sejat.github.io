@@ -6,7 +6,7 @@ subtitle: Robotics PhD @ <a href='https://www.gatech.edu/'>Georgia Tech</a>.
 
 profile:
   align: left
-  image: WEBSITE_PROFILE_PIC.png
+  image: Picture3.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
