@@ -9,9 +9,9 @@ profile:
   image: Picture3.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Boeing Manufacturing Development Center</p>
+    <p>Boeing Research Lab</p>
     <p>575 14th St NW</p>
-    <p>Your Atlanta, Georgia 30318</p>
+    <p>Atlanta, Georgia 30318</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
