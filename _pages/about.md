@@ -9,8 +9,8 @@ profile:
   image: Picture3.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 GTMI</p>
+    <p>Boeing Manufacturing Development Center</p>
+    <p>575 14th St NW</p>
     <p>Your Atlanta, Georgia 30318</p>
 
 news: true # includes a list of news items
