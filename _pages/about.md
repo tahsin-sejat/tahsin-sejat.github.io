@@ -20,6 +20,8 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I am a robotics PhD student affiliated with the [Boeing Manufacturing Development Center](https://news.gatech.edu/news/2017/06/22/boeing-georgia-tech-unveil-new-research-center), and the [Georgia Tech Manufacturing Institute](https://research.gatech.edu/manufacturing). I am also a graduate student researcher in the [Melkote Advanced Manufacturing Research Group](https://melkote.me.gatech.edu/) with Dr. Shreyes Melkote as my advisor. My research aspiration is to contribute towards the development of precise, reliable, and intelligent robotic systems for high performance manufacturing environment. My research primarily lies at the intersection of precision control, reliable multimodal sensor fusion, deep learning, and computer vision. The general nature of my research makes it directly applicable to precision robotic systems for manufacturing, healthcare, logistics and any other domain that seeks to leverage precision robotics with control guarantees. 
 
+My PhD research not only demands a strong theoretical foundation, but also but also involves direct interaction with cutting-edge robotic platforms, precision machining systems, and multimodal sensing tools. For anyone who is interested, I have compiled a dedicated page with a detailed list of the state-of-the-art equipment and technologies I routinely use in my research.
+
 
 Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
